@@ -1,5 +1,5 @@
 # PMU-B-PersonalAI
-
+[![Watch the video](http://img.youtube.com/vi/q5KKOgBHKj0/0.jpg)](https://youtu.be/q5KKOgBHKj0)
 ## :point_right: Class 1: xPore: An AI-Powered App for Bioinformaticians
 
 - แบบบรรยาย (lecture part)

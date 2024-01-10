@@ -43,18 +43,34 @@
 ---
 
 ## 📜📜 Chapter III: AI for detecting code plagiarism 📜📜
-  
-:books:Introduction :fast_forward: [Chapter 1: Introduction](https://github.com/sitthatkaja/DPDM2023/blob/main/Chapter%201%20Intro.pdf)
+เนื้อหาเป็นการตรวจสอบว่าโค้ดที่นับว่าเปรียบเทียบมีการคัดลอก (Plagiarism) หรือไม่
+
+:books:Lecture code plagiarism :fast_forward: [Lecture for AI for detecting code plagiarism](https://github.com/sitthatkaja/DPDM2023/blob/main/Chapter%201%20Intro.pdf)
   
 :pencil: Exercise and Workshop :fast_forward: [Code2Vec to detect code clone](https://github.com/sitthatkaja/PMU-B-PersonalAI/blob/main/Exercise_PMU_B_CodingAI_CodeCloneDetection_Workshop_sitthatka.ipynb)
+
+จากการทำ Exercise ได้ค่า Cosine ที่เปรียบเทียบกันทั้ง 16 คู่ด้วยวิธีอย่างง่ายคือการนำโค้ดมาเปลี่ยนค่าของแต่ละคู่ ทั้งนี้วิธีการดังกล่าวมีทั้งข้อดีและข้อเสีย
 
 ---
 
 ## 📜📜 Chapter IV: BiTNet: AI for diagnosing ultrasound image 📜📜
-  
-:books: Introduction :fast_forward: [Chapter 1: Introduction](https://github.com/sitthatkaja/DPDM2023/blob/main/Chapter%201%20Intro.pdf)
+เนื้อหาเป็นการตรวจบริเวณช่องท้องว่ามีสิ่งผิดปกติหรือไม่ ด้วยการใช้ ultrasound ที่ใช้มุมแตกต่างกันออกไป
+
+:books: Lecture BiTNet Acquisition :fast_forward: [Lecture for BiTNet: AI for diagnosing ultrasound image part I](https://github.com/sitthatkaja/PMU-B-PersonalAI/blob/main/lecture%20BiTNet%201_Aquisition.pdf)
+
+:books: Lecture BiTNet Data-Preparation :fast_forward: [Lecture for BiTNet: AI for diagnosing ultrasound image part II](https://github.com/sitthatkaja/PMU-B-PersonalAI/blob/main/lecture%20BiTNet%202_Data-Preparation.pdf)
+
+:books: Lecture BiTNet Model :fast_forward: [Lecture for BiTNet: AI for diagnosing ultrasound image part III](https://github.com/sitthatkaja/PMU-B-PersonalAI/blob/main/lecture%20BiTNet%203_Model-Development.pdf)
+
+:books: Lecture BiTNet Evaluation :fast_forward: [Lecture for BiTNet: AI for diagnosing ultrasound image part IV](https://github.com/sitthatkaja/PMU-B-PersonalAI/blob/main/lecture%20BiTNet%204_Evaluation.pdf)
+
+:books: Lecture BiTNet Visualization :fast_forward: [Lecture for BiTNet: AI for diagnosing ultrasound image part V](https://github.com/sitthatkaja/PMU-B-PersonalAI/blob/main/lecture%20BiTNet%205_Visualization.pdf)
+
+:books: Lecture BiTNet Future Work :fast_forward: [Lecture for BiTNet: AI for diagnosing ultrasound image part VI](https://github.com/sitthatkaja/PMU-B-PersonalAI/blob/main/lecture%20BiTNet%206_Future-Work.pdf)
   
 :pencil: Exercise and Workshop :fast_forward: [EffcientNet: Image Classificaiton](https://github.com/sitthatkaja/PMU-B-PersonalAI/blob/main/Exercise_PMUB_Personal_AI_Image_classification_EfficientNetB5.ipynb)
+
+จากการทำ Exercise พบว่ารูปภาพสุนัขและแมวจะทำนายได้ดี ในขณะที่ภาพนก เครื่องบินและอื่นๆก็ยังทำนายเป็นสุนัขและแมวเช่นกันเนื่องจากเราสอนให้รู้จักแต่สุนัขและแมว และได้พบว่าค่าใดคือค่า Output ของการทำโมเดล
 
 ---
 

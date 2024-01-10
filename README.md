@@ -1,8 +1,25 @@
-# PMU-B-PersonalAI
-[![Watch the video](http://img.youtube.com/vi/q5KKOgBHKj0/0.jpg)](https://youtu.be/q5KKOgBHKj0)
-## :point_right: Class 1: xPore: An AI-Powered App for Bioinformaticians
+# :mortar_board: PMU-B-PersonalAI (E-SAN Thailand Coding & AI Academy ) :mortar_board:
+:white_circle::black_circle::white_circle::black_circle::white_circle::black_circle::white_circle::black_circle::white_circle::black_circle::white_circle::black_circle::white_circle::black_circle::white_circle::black_circle::white_circle::black_circle::white_circle::black_circle::white_circle::black_circle::white_circle::black_circle::white_circle::black_circle::white_circle::black_circle::white_circle::black_circle::white_circle::black_circle::white_circle::black_circle::white_circle::black_circle::white_circle::black_circle::white_circle::black_circle::white_circle::black_circle::white_circle::black_circle::white_circle::black_circle:
+## :thought_balloon::thought_balloon: แนะนำตัวเอง (Introduction) :thought_balloon::thought_balloon:
 
-- แบบบรรยาย (lecture part)
+[![Watch the video](http://img.youtube.com/vi/q5KKOgBHKj0/0.jpg)](https://youtu.be/q5KKOgBHKj0)
+:white_circle::black_circle::white_circle::black_circle::white_circle::black_circle::white_circle::black_circle::white_circle::black_circle::white_circle::black_circle::white_circle::black_circle::white_circle::black_circle::white_circle::black_circle::white_circle::black_circle::white_circle::black_circle::white_circle::black_circle::white_circle::black_circle::white_circle::black_circle::white_circle::black_circle::white_circle::black_circle::white_circle::black_circle::white_circle::black_circle::white_circle::black_circle::white_circle::black_circle::white_circle::black_circle::white_circle::black_circle::white_circle::black_circle:
+## :thought_balloon::thought_balloon: สารบัญเนื้อหา (Table of Content) :thought_balloon::thought_balloon:
+
+เนื้อหาทั้งหมดเป็นส่วนหนึ่งของการแข่งขัน E-SAN Thailand Coding & AI Academy ภายใต้หัวข้อ Personal AI ทั้งนี้เนื้อหาการเรียนการสอนและการทำ Exercise และ Workshop ได้ทำการศึกษาเรียนรู้ผ่าน Powerclass โดยมีอาจารย์ 6 คนและเนื้อหาทั้ง 6 บทประกอบด้วย
+
+- xPore: An AI-Powered App for Bioinformaticians โดย ผศ.ดร.นฤมล ประทานวณิช
+- Learning from Biosignal โดย ผศ.ดร.อัคร สุประทักษ์
+- AI for detecting code plagiarism โดย ดร.ชัยยงค์ รักขิตเวชสกุล
+- BiTNet: AI for diagnosing ultrasound image โดย ผศ.ดร.ธนพงศ์ อินทระ
+- Mental disorder detection from social media data โดย ดร.อรรคพล วงศ์กอบลาภ
+- AI for arresting criminals โดย ดร.ฐิตาภรณ์ กนกรัตน
+  
+โดยหวังว่าเป็นอย่างยิ่งว่าผู้ที่เข้ามาดู Repository นี้จะได้ความรู้เทคนิคสำหรับการพัฒนาเป็นผู้ค้นว้าวิจัยเกี่ยวกับ AI ไม่มากก็น้อย
+
+---
+
+## :point_right: Class 1: xPore: An AI-Powered App for Bioinformaticians
   
 :page_facing_up: Introduction :fast_forward: [Chapter 1: Introduction](https://github.com/sitthatkaja/DPDM2023/blob/main/Chapter%201%20Intro.pdf)
 - แบบปฎิบัติ (Coding part)

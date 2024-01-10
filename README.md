@@ -75,15 +75,26 @@
 ---
 
 ## 📜📜 Chapter V: Mental disorder detection from social media data 📜📜
+
+เนื้อหาเกี่ยวกับการตรวจสอบข้อมูลและทำนายความรู้สึกจากข้อมูล Social Media ว่า ณ ตอนนี้ผู้ใช้รายนั้นรู้สึกอย่างไร
   
-:books: Introduction :fast_forward: [Chapter 1: Introduction](https://github.com/sitthatkaja/DPDM2023/blob/main/Chapter%201%20Intro.pdf)
+:books: Lecture social media :fast_forward: [Lecture for Mental disorder detection from social media data](https://github.com/sitthatkaja/PMU-B-PersonalAI/blob/main/lecture%20social%20media.pdf)
   
 :pencil: Exercise and Workshop :fast_forward: [NLP classification](https://github.com/sitthatkaja/PMU-B-PersonalAI/blob/main/Exercise_PMUB_Personal_AI_Social_Media.ipynb)
+
+จากการทำ Exercise ได้ทำการเลือกใช้โมเดลอื่นๆเช่น SVC และ KNNRegression ในการสร้างโมเดลขึ้นมาเพิ่มแต่ และได้ลองเก็บ Report พบว่าโมเดล Logistic Regression สามารถทำนายได้่ดีกว่า 2 ตัวที่เลือกมา
 
 ---
 
 ## 📜📜 Chapter VI: AI for arresting criminals 📜📜
+เนื้อหาการตรวจสอบบุคคลและรถที่เป็นผู้ต้องสงสัยที่อาจก่อเหตุอาชญากรรมด้วยวิดิโอและรูปภาพของกล้องวงจรปิด
   
-:books: Introduction :fast_forward: [Chapter 1: Introduction](https://github.com/sitthatkaja/DPDM2023/blob/main/Chapter%201%20Intro.pdf)
+:books: Lecture criminals :fast_forward: [Lecture for AI for arresting criminals part I](https://github.com/sitthatkaja/PMU-B-PersonalAI/blob/main/lecture%20criminals.pdf)
+
+:books: Lecture criminals (dectection) :fast_forward: [Lecture for AI for arresting criminals part II](https://github.com/sitthatkaja/PMU-B-PersonalAI/blob/main/lecture%20criminal_detection.pdf)
   
 :pencil: Exercise and Workshop :fast_forward: [Yolo Detection // Face recognition](https://github.com/sitthatkaja/PMU-B-PersonalAI/blob/main/Exercise_Train_Yolov8_Object_Detection_on_Custom_Dataset.ipynb)
+
+จากการทำ Exercise ได้พบว่ายังมี Taxi หลายครั้งถูกนับว่าเป็น car และความน่าเชื่อถือของ pedestain มีน้อยเนื่องจากข้อมูลที่ Detection ให้น้อยเกินไปจนไม่สามารถตัดสินได้หรือตัดสินใจได้น้อย
+
+:white_circle::black_circle::white_circle::black_circle::white_circle::black_circle::white_circle::black_circle::white_circle::black_circle::white_circle::black_circle::white_circle::black_circle::white_circle::black_circle::white_circle::black_circle::white_circle::black_circle::white_circle::black_circle::white_circle::black_circle::white_circle::black_circle::white_circle::black_circle::white_circle::black_circle::white_circle::black_circle::white_circle::black_circle::white_circle::black_circle::white_circle:

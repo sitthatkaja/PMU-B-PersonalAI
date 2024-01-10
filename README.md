@@ -1,6 +1,11 @@
 # :mortar_board: PMU-B-PersonalAI (E-SAN Thailand Coding & AI Academy ) :mortar_board:
 :white_circle::black_circle::white_circle::black_circle::white_circle::black_circle::white_circle::black_circle::white_circle::black_circle::white_circle::black_circle::white_circle::black_circle::white_circle::black_circle::white_circle::black_circle::white_circle::black_circle::white_circle::black_circle::white_circle::black_circle::white_circle::black_circle::white_circle::black_circle::white_circle::black_circle::white_circle::black_circle::white_circle::black_circle::white_circle::black_circle::white_circle:
 ## :thought_balloon::thought_balloon: แนะนำตัวเอง (Introduction) :thought_balloon::thought_balloon:
+### :open_file_folder: ชื่่อ-สกุล : สิทธัตกะ จรัสแสง
+### :open_file_folder: ระดับการศึกษา : ปริญญาโท สาขาวิชาสถิติ หลักสูตรสถิติประยุกต์ คณะวิทยาศาสตร์ มหาวิทยาลัยขอนแก่น
+### :open_file_folder: ความสนใจ : Classification with Image for Medical AI, Classification with dataset table for Medical AI, etc.
+
+:arrow_double_down::arrow_double_down::arrow_double_down:คุณสามารถดูวิดิโอแนะนำตัวได้ที่ด้านล่างเพียงกดรูป :arrow_double_down::arrow_double_down::arrow_double_down:
 
 [![Watch the video](http://img.youtube.com/vi/q5KKOgBHKj0/0.jpg)](https://youtu.be/q5KKOgBHKj0)
 :white_circle::black_circle::white_circle::black_circle::white_circle::black_circle::white_circle::black_circle::white_circle::black_circle::white_circle::black_circle::white_circle::black_circle::white_circle::black_circle::white_circle::black_circle::white_circle::black_circle::white_circle::black_circle::white_circle::black_circle::white_circle::black_circle::white_circle::black_circle::white_circle::black_circle::white_circle::black_circle::white_circle::black_circle::white_circle::black_circle::white_circle:
@@ -45,7 +50,7 @@
 ## 📜📜 Chapter III: AI for detecting code plagiarism 📜📜
 เนื้อหาเป็นการตรวจสอบว่าโค้ดที่นับว่าเปรียบเทียบมีการคัดลอก (Plagiarism) หรือไม่
 
-:books:Lecture code plagiarism :fast_forward: [Lecture for AI for detecting code plagiarism](https://github.com/sitthatkaja/DPDM2023/blob/main/Chapter%201%20Intro.pdf)
+:books:Lecture code plagiarism :fast_forward: [Lecture for AI for detecting code plagiarism](https://github.com/sitthatkaja/PMU-B-PersonalAI/blob/main/lecture%20code%20plagiarism.pdf)
   
 :pencil: Exercise and Workshop :fast_forward: [Code2Vec to detect code clone](https://github.com/sitthatkaja/PMU-B-PersonalAI/blob/main/Exercise_PMU_B_CodingAI_CodeCloneDetection_Workshop_sitthatka.ipynb)
 
@@ -95,6 +100,8 @@
   
 :pencil: Exercise and Workshop :fast_forward: [Yolo Detection // Face recognition](https://github.com/sitthatkaja/PMU-B-PersonalAI/blob/main/Exercise_Train_Yolov8_Object_Detection_on_Custom_Dataset.ipynb)
 
-จากการทำ Exercise ได้พบว่ายังมี Taxi หลายครั้งถูกนับว่าเป็น car และความน่าเชื่อถือของ pedestain มีน้อยเนื่องจากข้อมูลที่ Detection ให้น้อยเกินไปจนไม่สามารถตัดสินได้หรือตัดสินใจได้น้อย
+จากการทำ Exercise ได้พบว่ายังมี Taxi หลายคันถูกนับว่าเป็น car และความน่าเชื่อถือของ pedestain มีน้อยเนื่องจากข้อมูลที่ Detection ให้น้อยเกินไปจนไม่สามารถตัดสินได้หรือตัดสินใจได้น้อย
 
+:white_circle::black_circle::white_circle::black_circle::white_circle::black_circle::white_circle::black_circle::white_circle::black_circle::white_circle::black_circle::white_circle::black_circle::white_circle::black_circle::white_circle::black_circle::white_circle::black_circle::white_circle::black_circle::white_circle::black_circle::white_circle::black_circle::white_circle::black_circle::white_circle::black_circle::white_circle::black_circle::white_circle::black_circle::white_circle::black_circle::white_circle:
+# :clap::clap::clap: ขอขอบพระคุณอาจารย์และผู้เข้ามาเยี่ยมชมทุกท่านที่ให้ความสนใจใน Repository ฉบับนี้ :clap::clap::clap:
 :white_circle::black_circle::white_circle::black_circle::white_circle::black_circle::white_circle::black_circle::white_circle::black_circle::white_circle::black_circle::white_circle::black_circle::white_circle::black_circle::white_circle::black_circle::white_circle::black_circle::white_circle::black_circle::white_circle::black_circle::white_circle::black_circle::white_circle::black_circle::white_circle::black_circle::white_circle::black_circle::white_circle::black_circle::white_circle::black_circle::white_circle:

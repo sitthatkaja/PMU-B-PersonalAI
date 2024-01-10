@@ -1,9 +1,9 @@
 # :mortar_board: PMU-B-PersonalAI (E-SAN Thailand Coding & AI Academy ) :mortar_board:
-:white_circle::black_circle::white_circle::black_circle::white_circle::black_circle::white_circle::black_circle::white_circle::black_circle::white_circle::black_circle::white_circle::black_circle::white_circle::black_circle::white_circle::black_circle::white_circle::black_circle::white_circle::black_circle::white_circle::black_circle::white_circle::black_circle::white_circle::black_circle::white_circle::black_circle::white_circle::black_circle::white_circle::black_circle::white_circle::black_circle::white_circle::black_circle::white_circle::black_circle::white_circle::black_circle::white_circle::black_circle::white_circle::black_circle:
+:white_circle::black_circle::white_circle::black_circle::white_circle::black_circle::white_circle::black_circle::white_circle::black_circle::white_circle::black_circle::white_circle::black_circle::white_circle::black_circle::white_circle::black_circle::white_circle::black_circle::white_circle::black_circle::white_circle::black_circle::white_circle::black_circle::white_circle::black_circle::white_circle::black_circle::white_circle::black_circle::white_circle::black_circle::white_circle::black_circle::white_circle:
 ## :thought_balloon::thought_balloon: แนะนำตัวเอง (Introduction) :thought_balloon::thought_balloon:
 
 [![Watch the video](http://img.youtube.com/vi/q5KKOgBHKj0/0.jpg)](https://youtu.be/q5KKOgBHKj0)
-:white_circle::black_circle::white_circle::black_circle::white_circle::black_circle::white_circle::black_circle::white_circle::black_circle::white_circle::black_circle::white_circle::black_circle::white_circle::black_circle::white_circle::black_circle::white_circle::black_circle::white_circle::black_circle::white_circle::black_circle::white_circle::black_circle::white_circle::black_circle::white_circle::black_circle::white_circle::black_circle::white_circle::black_circle::white_circle::black_circle::white_circle::black_circle::white_circle::black_circle::white_circle::black_circle::white_circle::black_circle::white_circle::black_circle:
+:white_circle::black_circle::white_circle::black_circle::white_circle::black_circle::white_circle::black_circle::white_circle::black_circle::white_circle::black_circle::white_circle::black_circle::white_circle::black_circle::white_circle::black_circle::white_circle::black_circle::white_circle::black_circle::white_circle::black_circle::white_circle::black_circle::white_circle::black_circle::white_circle::black_circle::white_circle::black_circle::white_circle::black_circle::white_circle::black_circle::white_circle:
 ## :thought_balloon::thought_balloon: สารบัญเนื้อหา (Table of Content) :thought_balloon::thought_balloon:
 
 เนื้อหาทั้งหมดเป็นส่วนหนึ่งของการแข่งขัน E-SAN Thailand Coding & AI Academy ภายใต้หัวข้อ Personal AI ทั้งนี้เนื้อหาการเรียนการสอนและการทำ Exercise และ Workshop ได้ทำการศึกษาเรียนรู้ผ่าน Powerclass โดยมีอาจารย์ 6 คนและเนื้อหาทั้ง 6 บทประกอบด้วย
@@ -19,16 +19,15 @@
 
 ---
 
-## :point_right: Class 1: xPore: An AI-Powered App for Bioinformaticians
+## 📜📜 Chapter I : xPore: An AI-Powered App for Bioinformaticians 📜📜
   
 :page_facing_up: Introduction :fast_forward: [Chapter 1: Introduction](https://github.com/sitthatkaja/DPDM2023/blob/main/Chapter%201%20Intro.pdf)
-- แบบปฎิบัติ (Coding part)
   
 :pencil: Exercise and Workshop :fast_forward: [Gaussian Mixture Model](https://github.com/sitthatkaja/PMU-B-PersonalAI/blob/main/GMM.ipynb)
 
 ---
 
-## :point_right: Class 2: Learning from Biosignal
+## 📜📜 Chapter II: Learning from Biosignal 📜📜
 - แบบบรรยาย (lecture part)
   
 :page_facing_up: Introduction :fast_forward: [Chapter 1: Introduction](https://github.com/sitthatkaja/DPDM2023/blob/main/Chapter%201%20Intro.pdf)
@@ -38,8 +37,8 @@
 
 ---
 
-## :point_right: Class 3: AI for detecting code plagiarism
-- แบบบรรยาย (lecture part)
+## 📜📜 Chapter III: AI for detecting code plagiarism 📜📜
+- แบบบรรยาย (lecture part) 
   
 :page_facing_up: Introduction :fast_forward: [Chapter 1: Introduction](https://github.com/sitthatkaja/DPDM2023/blob/main/Chapter%201%20Intro.pdf)
 - แบบปฎิบัติ (Coding part)
@@ -48,7 +47,7 @@
 
 ---
 
-## :point_right: Class 4: BiTNet: AI for diagnosing ultrasound image
+## 📜📜 Chapter IV: BiTNet: AI for diagnosing ultrasound image 📜📜
 - แบบบรรยาย (lecture part)
   
 :page_facing_up: Introduction :fast_forward: [Chapter 1: Introduction](https://github.com/sitthatkaja/DPDM2023/blob/main/Chapter%201%20Intro.pdf)
@@ -58,7 +57,7 @@
 
 ---
 
-## :point_right: Class 5: Mental disorder detection from social media data
+## 📜📜 Chapter V: Mental disorder detection from social media data 📜📜
 - แบบบรรยาย (lecture part)
   
 :page_facing_up: Introduction :fast_forward: [Chapter 1: Introduction](https://github.com/sitthatkaja/DPDM2023/blob/main/Chapter%201%20Intro.pdf)
@@ -68,7 +67,7 @@
 
 ---
 
-## :point_right: Class 6: AI for arresting criminals
+## 📜📜 Chapter VI: AI for arresting criminals 📜📜
 - แบบบรรยาย (lecture part)
   
 :page_facing_up: Introduction :fast_forward: [Chapter 1: Introduction](https://github.com/sitthatkaja/DPDM2023/blob/main/Chapter%201%20Intro.pdf)
